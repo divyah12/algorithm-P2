@@ -1,6 +1,6 @@
 //**************************************************************
 //                   Project #1 Sorting
-//                    Name: Divyashree H B
+//                    
 //                    Data Structures Date: 02/08/2016
 //***************************************************************
 //      This program calculates the time complexity of two sorting 
