@@ -1,1 +1,3 @@
-# algorithm-P2
+# Sort algorithm
+
+Comparison between insertion sort and mergesort.
